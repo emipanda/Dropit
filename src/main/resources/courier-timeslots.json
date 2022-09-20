@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "date": "20-09-2022",
+    "supported_addresses": [
+      {
+        "street": "Upper Montagu Street",
+        "addressLine1": "38 Upper Montagu Street",
+        "addressLine2": "London, W1H 1LJ, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "W1H 1LJ"
+      },
+      {
+        "street": "Argyll Street",
+        "addressLine1": "London Palladium",
+        "addressLine2": "7-8 Argyll Street, London, W1F 7TF, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "W1F 7TF"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "start_time": "17:00",
+    "end_time": "20:00",
+    "date": "19-09-2022",
+    "supported_addresses": [
+      {
+        "street": "Ingestre Place",
+        "addressLine1": "Eyes On Soho",
+        "addressLine2": "13 Ingestre Place, London, W1F 0JG, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "W1F 0JG"
+      },
+      {
+        "street": "Argyll Street",
+        "addressLine1": "London Palladium",
+        "addressLine2": "7-8 Argyll Street, London, W1F 7TF, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "W1F 7TF"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "start_time": "10:00",
+    "end_time": "11:00",
+    "date": "18-09-2022",
+    "supported_addresses": [
+      {
+        "street": "Noel Street",
+        "addressLine1": "YHA London Oxford Street",
+        "addressLine2": "14 Noel Street, London, W1F 8GJ, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "W1F 8GJ"
+      },
+      {
+        "street": "Pall Mall Stationers",
+        "addressLine1": "Pall Mall Stationers",
+        "addressLine2": "London, SW1Y 5EY, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "SW1Y 5EY"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "start_time": "08:00",
+    "end_time": "12:00",
+    "date": "11-09-2022",
+    "supported_addresses": [
+      {
+        "street": "Pall Mall Stationers",
+        "addressLine1": "Pall Mall Stationers",
+        "addressLine2": "London, SW1Y 5EY, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "SW1Y 5EY"
+      },
+      {
+        "street": "Upper Montagu Street",
+        "addressLine1": "38 Upper Montagu Street",
+        "addressLine2": "London, W1H 1LJ, United Kingdom",
+        "country": "United Kingdom",
+        "postcode": "W1H 1LJ"
+      }
+    ]
+  }
+]
